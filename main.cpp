@@ -9,7 +9,7 @@
 
 extern "C" {
     #define STB_IMAGE_IMPLEMENTATION
-    #include "libraries/stb_image.h"
+    #include "stb_image.h"
 }
 
 // Loads as RGBA even if file is only RGB
